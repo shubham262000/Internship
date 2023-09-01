@@ -1,0 +1,26 @@
+.btn-yellow{
+
+    background: rgb(255,128,8);
+ background: linear-gradient(90deg, rgba(255,128,8,0.30) 0%, rgba(255,200,55,0.30) 100%);
+}
+ .bg-black{
+    height: 50px;
+    background: rgb(20,30,48);
+background: linear-gradient(90deg, rgba(20,30,48,1) 0%, rgba(36,59,85,1) 100%);
+color:white
+} 
+.bg-all{
+    background-color:rgb(255, 254, 254)
+}
+
+/* img{
+    margin-left: 50px;
+} */
+
+hr{
+    width: 75px;
+height: 3px;
+flex-shrink: 0;
+text-align: center;
+
+}

@@ -1,0 +1,9 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle id="Ellipse 36" opacity="0.6" cx="25" cy="25" r="25" fill="url(#paint0_linear_709_2551)"/>
+<defs>
+<linearGradient id="paint0_linear_709_2551" x1="50" y1="25" x2="-0.0179361" y2="25.2091" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF8008"/>
+<stop offset="1" stop-color="#FFC837"/>
+</linearGradient>
+</defs>
+</svg>
