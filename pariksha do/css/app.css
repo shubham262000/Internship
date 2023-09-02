@@ -1,0 +1,60 @@
+
+.bg-black{
+    background: rgb(20,30,48);
+    background: linear-gradient(90deg, rgba(20,30,48,1) 0%, rgba(36,59,85,1) 100%);
+}
+
+body{
+    background-color: #FFFFFF;
+}
+.color-white{
+    color: rgb(252, 249, 249) !important;
+}
+
+ .navbar{
+    margin-right:10px !important;
+    
+} 
+
+.text
+{ 
+    width: 500px;
+    height: 253px;
+    color: #212121;
+text-align: left;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: 80px; /* 133.333% */
+    }
+   
+.bg-yellow{
+    background: rgb(255,128,8);
+background: linear-gradient(90deg, rgba(255,128,0.5) 0%, rgba(255,200,55) 100%); }
+
+.yellow{
+    color: rgb(255,128,8);
+    color: linear-gradient(90deg, rgba(255,128,8,0.3) 0%, rgba(255,200,55,0.3) 100%);
+}
+
+.searchbar{
+   
+    background: rgb(255,128,8);
+background: linear-gradient(90deg, rgba(255,128,8,0.3) 0%, rgba(255,200,55,0.3) 100%);
+width: 600px;
+
+   }
+
+.navbar{
+    margin-top: 0px;
+margin-bottom: 0px;
+}
+
+.text1{
+    color: var(--font-color, #212121);
+    font-family: "Playfair Display";
+    
+font-style: normal;
+font-weight: 500;
+}
+
