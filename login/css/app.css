@@ -1,0 +1,39 @@
+
+@media (max-width: 767.98px) { 
+   
+
+ }
+
+
+
+.text-playfair{
+    color:#2F2F2F;
+
+    font-family: Playfair Display;
+    font-weight: 400;
+}
+
+.text-sm{ 
+    color: #585858;
+    font-family: Inter;
+    
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.inter-sm{
+    color: #585858;
+    font-family: Inter;
+    
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.btn-bg{
+    background: #62AF2F;
+} 
+
+
+
+ 
