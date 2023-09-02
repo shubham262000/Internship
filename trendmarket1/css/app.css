@@ -1,0 +1,25 @@
+@media (min-width: 768px) and (max-width: 780px) 
+{ 
+    
+ }
+
+ @media (max-width: 768px) { 
+    .home-bg1{
+        background-image: none !important;
+    }
+  }
+
+
+.green-bg{
+    background:#62AF2F;
+}
+.home-bg1{
+    background-image: url("./images/home/homeimg1.jpg");
+     height: 500px;
+     background-size: cover;
+     background-repeat: no-repeat;
+    }
+    
+   
+
+     
